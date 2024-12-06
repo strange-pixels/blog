@@ -1,0 +1,34 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Strangepixels",
+  "home_page_url": "//localhost:1313/",
+  "feed_url": "//localhost:1313/feed.json",
+  "description": "A minimal hugo theme focus on content",
+  "favicon": "//localhost:1313//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "NG",
+    "url": "//localhost:1313/"
+  },
+  "items": [
+    
+    
+
+    
+    {
+      "id": "f2918f59d2d9675ad0153a106265d9b318dee58f",
+      "title": "My First Post",
+      "summary": "",
+      "content_text": "Heading 1 That\u0026rsquo;s the way love goes.\nHeading 2 Heading 3 This is bold text.\n",
+      "content_html": "\u003ch1 id=\"heading-1\"\u003eHeading 1\u003c/h1\u003e\n\u003cp\u003eThat\u0026rsquo;s the way love goes.\u003c/p\u003e\n\u003ch2 id=\"heading-2\"\u003eHeading 2\u003c/h2\u003e\n\u003ch3 id=\"heading-3\"\u003eHeading 3\u003c/h3\u003e\n\u003cp\u003eThis is \u003cstrong\u003ebold\u003c/strong\u003e text.\u003c/p\u003e\n",
+      "url": "//localhost:1313/posts/my-first-post/",
+      "date_published": "5126-05-09T1256:55:00-04:00",
+      "date_modified": "5126-05-09T1256:55:00-04:00",
+      "author": {
+        "name": "NG",
+        "url": "//localhost:1313/"
+      }
+    }
+    
+  ]
+}
