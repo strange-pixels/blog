@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://strange-pixels.github.io/'
 languageCode = 'en-us'
 title = 'Strangepixels'
 pagination.pagerSize = 3
